@@ -1,0 +1,20 @@
+.ip__background {
+  display: flex;
+  justify-content: center;
+  background-image: url("../../assets/Combined-Shape.svg");
+  height: 28rem;
+}
+
+.ip__info {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  padding-top: 2.6rem;
+  margin-bottom: 2.9rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+}

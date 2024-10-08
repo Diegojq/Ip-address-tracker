@@ -1,0 +1,28 @@
+.search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 2.4rem;
+}
+
+.inputSearch {
+  position: relative;
+  width: 32.7rem;
+  height: 5.8rem;
+  border-radius: 1.5rem;
+  border: none;
+  z-index: 1;
+}
+
+.search__button {
+  position: absolute;
+  right: 0rem;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 5.8rem;
+  height: 5.8rem;
+  background-color: #000000;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
